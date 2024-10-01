@@ -7,6 +7,7 @@
 - Printing a variable can also be done by simply typing the variable name in the terminal (e.g., `a`).
 - Exceptions are not implemented in the code because they interrupt the program, and it must be restarted (the code still recognizes errors).
 - When assigning a string to a variable, both double (`""`) and single quotes (`''`) can be used (the code automatically uses `''` like in Python).
+- You can only add strings to lists and tuples..
 - When running the program, code can be immediately entered in the terminal, and to exit, use `exit`.
 
 ## Setup Instructions
