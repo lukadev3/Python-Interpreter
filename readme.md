@@ -16,7 +16,7 @@
    - Follow the installation instructions for your operating system.
 
 2. **Install MinGW**:
-   - Download MinGW from the [MinGW-w64 project](https://mingw-w64.org/doku.php).
+   - Download MinGW from the [MinGW-w64](https://sourceforge.net/projects/mingw/).
    - Follow the instructions to install it. Make sure to choose the correct architecture (32-bit or 64-bit) based on your needs.
 
 3. **Add MinGW to PATH**:
